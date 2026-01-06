@@ -1,0 +1,127 @@
+/* Wrapper */
+.table-wrapper {
+  width: 100%;
+  max-width: 900px;
+  margin: 40px auto;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif;
+  color: #e5e7eb;
+}
+
+/* Search input */
+.table-search {
+  width: 100%;
+  padding: 12px 14px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  border: 1px solid #444;
+  background-color: #1a1a1a;
+  color: #f1f1f1;
+  font-size: 16px;
+}
+
+.table-search::placeholder {
+  color: #888;
+}
+
+.table-search:focus {
+  outline: none;
+  border-color: rgb(150, 150, 150);
+}
+
+/* Scrollable table container */
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+  scrollbar-width: none;
+  /* Firefox */
+  -ms-overflow-style: none;
+  /* IE 10+ */
+  border-radius: 8px;
+  margin: 16px 0;
+}
+
+.table-container::-webkit-scrollbar {
+  display: none;
+  /* Chrome, Safari, Edge */
+}
+
+/* Table styling */
+.searchable-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 600px;
+  border-radius: 8px;
+}
+
+.searchable-table th,
+.searchable-table td {
+  padding: 12px 16px;
+  text-align: left;
+}
+
+.searchable-table thead {
+  background-color: #2b2b2b;
+  color: #f1f1f1;
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+}
+
+.searchable-table tbody tr.even-row {
+  background-color: #1a1a1a;
+}
+
+.searchable-table tbody tr.odd-row {
+  background-color: #121212;
+}
+
+.searchable-table tbody tr:hover {
+  background-color: #333;
+  transition: background-color 0.2s ease;
+}
+
+.searchable-table td {
+  border-bottom: 1px solid #333;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+
+  .searchable-table th,
+  .searchable-table td {
+    padding: 10px 8px;
+    font-size: 14px;
+  }
+}
+
+/* Rarity colors */
+.rarity.common {
+  color: #b0b0b0;
+  /* gray */
+  font-weight: normal;
+}
+
+.rarity.uncommon {
+  color: #3cb043;
+  /* green */
+  font-weight: bold;
+}
+
+.rarity.rare {
+  color: #1e90ff;
+  /* blue */
+  font-weight: bold;
+}
+
+.rarity.epic {
+  color: #a020f0;
+  /* purple */
+  font-weight: bold;
+}
+
+.rarity.legendary {
+  color: #ffa500;
+  /* orange/gold */
+  font-weight: bold;
+}

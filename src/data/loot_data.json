@@ -1,0 +1,1142 @@
+[
+  {
+    "name": "Advanced Arc Powercell",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 640
+  },
+  {
+    "name": "Advanced Electrical Components",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 1750
+  },
+  {
+    "name": "Advanced Mechanical Components",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 1750
+  },
+  {
+    "name": "Agave",
+    "rarity": "Uncommon",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Agave Juice",
+    "rarity": "Common",
+    "action": "KEEP",
+    "price": 1800
+  },
+  {
+    "name": "Air Freshener",
+    "rarity": "Uncommon",
+    "action": "SELL",
+    "price": 2000
+  },
+  {
+    "name": "Alarm Clock",
+    "rarity": "Rare",
+    "action": "RECYCLE",
+    "price": 1000
+  },
+  {
+    "name": "Antiseptic",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "Apricot",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 640
+  },
+  {
+    "name": "ARC Alloy",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 200
+  },
+  {
+    "name": "ARC Circuitry",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "ARC Coolant",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "ARC Flex Rubber",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "ARC Motion Core",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "ARC Performance Steel",
+    "rarity": "Rare",
+    "action": "RECYCLE",
+    "price": 1000
+  },
+  {
+    "name": "ARC Powercell",
+    "rarity": "Common",
+    "action": "KEEP",
+    "price": 640
+  },
+  {
+    "name": "ARC Synthetic Resin",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "ARC Thermo Lining",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Assorted Seeds",
+    "rarity": "Common",
+    "action": "KEEP",
+    "price": 100
+  },
+  {
+    "name": "Bastion Cell",
+    "rarity": "Epic",
+    "action": "KEEP",
+    "price": 5000
+  },
+  {
+    "name": "Battery",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 250
+  },
+  {
+    "name": "Bicycle Pump",
+    "rarity": "Rare",
+    "action": "RECYCLE",
+    "price": 2000
+  },
+  {
+    "name": "Bombardier Cell",
+    "rarity": "Epic",
+    "action": "KEEP",
+    "price": 5000
+  },
+  {
+    "name": "Breathtaking Snow Globe",
+    "rarity": "Epic",
+    "action": "SELL",
+    "price": 7000
+  },
+  {
+    "name": "Broken Flashlight",
+    "rarity": "Rare",
+    "action": "RECYCLE",
+    "price": 1000
+  },
+  {
+    "name": "Broken Guidance System",
+    "rarity": "Rare",
+    "action": "RECYCLE",
+    "price": 2000
+  },
+  {
+    "name": "Broken Handheld Radio",
+    "rarity": "Rare",
+    "action": "RECYCLE",
+    "price": 2000
+  },
+  {
+    "name": "Broken Taser",
+    "rarity": "Rare",
+    "action": "RECYCLE",
+    "price": 1000
+  },
+  {
+    "name": "Burned ARC Circuitry",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Camera Lens",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Candleberries",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": ""
+  },
+  {
+    "name": "Candle Holder",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 640
+  },
+  {
+    "name": "Canister",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 300
+  },
+  {
+    "name": "Cat Bed",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "Chemicals",
+    "rarity": "Common",
+    "action": "KEEP",
+    "price": 50
+  },
+  {
+    "name": "Coffee Pot",
+    "rarity": "Common",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Complex Gun Parts",
+    "rarity": "Epic",
+    "action": "KEEP",
+    "price": 2000
+  },
+  {
+    "name": "Coolant",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Cooling Coil",
+    "rarity": "Rare",
+    "action": "RECYCLE",
+    "price": 1000
+  },
+  {
+    "name": "Cooling Fan",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 2000
+  },
+  {
+    "name": "Cracked Bioscanner",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "Crude Explosives",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 270
+  },
+  {
+    "name": "Crumpled Plastic Bottle",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 270
+  },
+  {
+    "name": "Damaged ARC Motion Core",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Damaged Fireball Burner",
+    "rarity": "Common",
+    "action": "RECYCLE",
+    "price": 270
+  },
+  {
+    "name": "Damaged Heat Sink",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "Damaged Hornet Driver",
+    "rarity": "Common",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Damaged Rocketeer Driver",
+    "rarity": "Common",
+    "action": "SELL",
+    "price": 2000
+  },
+  {
+    "name": "Damaged Tick Pod",
+    "rarity": "Common",
+    "action": "RECYCLE",
+    "price": 270
+  },
+  {
+    "name": "Dartboard",
+    "rarity": "Uncommon",
+    "action": "SELL",
+    "price": 2000
+  },
+  {
+    "name": "Deflated Football",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 1000
+  },
+  {
+    "name": "Degraded ARC Rubber",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Diving Goggles",
+    "rarity": "Rare",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Dog Collar",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 640
+  },
+  {
+    "name": "Dried-Out ARC Resin",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Duct Tape",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 640
+  },
+  {
+    "name": "Durable Cloth",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 640
+  },
+  {
+    "name": "Electrical Components",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 640
+  },
+  {
+    "name": "Empty Wine Bottle",
+    "rarity": "Common",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "Exodus Modules",
+    "rarity": "Epic",
+    "action": "KEEP",
+    "price": 2750
+  },
+  {
+    "name": "Expired Pasta",
+    "rarity": "Common",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "Expired Respirator",
+    "rarity": "Rare",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Explosive Compound",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "Fabric",
+    "rarity": "Common",
+    "action": "KEEP",
+    "price": 50
+  },
+  {
+    "name": "Faded Photograph",
+    "rarity": "Common",
+    "action": "SELL",
+    "price": 640
+  },
+  {
+    "name": "Fertilizer",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "Film Reel",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 2000
+  },
+  {
+    "name": "Fine Wristwatch",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 3000
+  },
+  {
+    "name": "Fireball Burner",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 640
+  },
+  {
+    "name": "Flow Controller",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 3000
+  },
+  {
+    "name": "Frequency Modulation Box",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 3000
+  },
+  {
+    "name": "Fried Motherboard",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 2000
+  },
+  {
+    "name": "Frying Pan",
+    "rarity": "Rare",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Garlic Press",
+    "rarity": "Uncommon",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Geiger Counter",
+    "rarity": "Epic",
+    "action": "SELL",
+    "price": 3500
+  },
+  {
+    "name": "Great Mullein",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 300
+  },
+  {
+    "name": "Headphones",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Heavy Gun Parts",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 700
+  },
+  {
+    "name": "Hornet Driver",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 2000
+  },
+  {
+    "name": "Household Cleaner",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Humidifier",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "Ice Cream Scooper",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Impure ARC Coolant",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Industrial Battery",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Industrial Charger",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Industrial Magnet",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Ion Sputter",
+    "rarity": "Epic",
+    "action": "SELL",
+    "price": 6000
+  },
+  {
+    "name": "Laboratory Reagents",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 2000
+  },
+  {
+    "name": "Lance's Mixtape",
+    "rarity": "Epic",
+    "action": "SELL",
+    "price": 10000
+  },
+  {
+    "name": "Leaper Pulse Unit",
+    "rarity": "Epic",
+    "action": "KEEP",
+    "price": 5000
+  },
+  {
+    "name": "Lemon",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 640
+  },
+  {
+    "name": "Light Bulb",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 2000
+  },
+  {
+    "name": "Light Gun Parts",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 700
+  },
+  {
+    "name": "Magnet",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 300
+  },
+  {
+    "name": "Magnetic Accelerator",
+    "rarity": "Epic",
+    "action": "KEEP",
+    "price": 5500
+  },
+  {
+    "name": "Magnetron",
+    "rarity": "Epic",
+    "action": "SELL",
+    "price": 6000
+  },
+  {
+    "name": "Matriarch Reactor",
+    "rarity": "Legendary",
+    "action": "KEEP",
+    "price": 13000
+  },
+  {
+    "name": "Mechanical Components",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 640
+  },
+  {
+    "name": "Medium Gun Parts",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 700
+  },
+  {
+    "name": "Metal Brackets",
+    "rarity": "Uncommon",
+    "action": "SELL",
+    "price": 640
+  },
+  {
+    "name": "Metal Parts",
+    "rarity": "Common",
+    "action": "KEEP",
+    "price": 75
+  },
+  {
+    "name": "Microscope",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 3000
+  },
+  {
+    "name": "Mini Centrifuge",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 3000
+  },
+  {
+    "name": "Mod Components",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 1750
+  },
+  {
+    "name": "Moss",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 500
+  },
+  {
+    "name": "Motor",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 2000
+  },
+  {
+    "name": "Mushroom",
+    "rarity": "Common",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "Music Album",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 3000
+  },
+  {
+    "name": "Music Box",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 5000
+  },
+  {
+    "name": "Number Plate",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 270
+  },
+  {
+    "name": "Oil",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 300
+  },
+  {
+    "name": "Olives",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 640
+  },
+  {
+    "name": "Painted Box",
+    "rarity": "Common",
+    "action": "SELL",
+    "price": 2000
+  },
+  {
+    "name": "Plastic Parts",
+    "rarity": "Common",
+    "action": "KEEP",
+    "price": 60
+  },
+  {
+    "name": "Playing Cards",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 5000
+  },
+  {
+    "name": "Polluted Air Filter",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Pop Trigger",
+    "rarity": "Common",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Portable TV",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 2000
+  },
+  {
+    "name": "Poster of Natural Wonders",
+    "rarity": "Uncommon",
+    "action": "SELL",
+    "price": 2000
+  },
+  {
+    "name": "Pottery",
+    "rarity": "Uncommon",
+    "action": "SELL",
+    "price": 2000
+  },
+  {
+    "name": "Power Bank",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": ""
+  },
+  {
+    "name": "Power Cable",
+    "rarity": "Rare",
+    "action": "RECYCLE",
+    "price": 1000
+  },
+  {
+    "name": "Power Rod",
+    "rarity": "Epic",
+    "action": "KEEP",
+    "price": 5500
+  },
+  {
+    "name": "Prickly Pear",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 640
+  },
+  {
+    "name": "Processor",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 500
+  },
+  {
+    "name": "Projector",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Queen Reactor",
+    "rarity": "Legendary",
+    "action": "KEEP",
+    "price": 13000
+  },
+  {
+    "name": "Radio",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Radio Relay",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 3000
+  },
+  {
+    "name": "Recorder",
+    "rarity": "Uncommon",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Red Coral Jewelry",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 5000
+  },
+  {
+    "name": "Remote Control",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Resin",
+    "rarity": "Common",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Ripped Safety Vest",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 1000
+  },
+  {
+    "name": "Rocketeer Driver",
+    "rarity": "Epic",
+    "action": "KEEP",
+    "price": 5000
+  },
+  {
+    "name": "Rocket Thruster",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 2000
+  },
+  {
+    "name": "Roots",
+    "rarity": "Uncommon",
+    "action": "SELL",
+    "price": 640
+  },
+  {
+    "name": "Rope",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 500
+  },
+  {
+    "name": "Rosary",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 2000
+  },
+  {
+    "name": "Rotary Encoder",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 3000
+  },
+  {
+    "name": "Rubber Duck",
+    "rarity": "Common",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "Rubber Pad",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Rubber Parts",
+    "rarity": "Common",
+    "action": "KEEP",
+    "price": 50
+  },
+  {
+    "name": "Ruined Accordion",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 2000
+  },
+  {
+    "name": "Ruined Baton",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Ruined Handcuffs",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Ruined Parachute",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Ruined Riot Shield",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Ruined Tactical Vest",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Rusted Bolts",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Rusted Gear",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 2000
+  },
+  {
+    "name": "Rusted Shut Medical Kit",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 2000
+  },
+  {
+    "name": "Rusted Tools",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "Rusty ARC Steel",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Sample Cleaner",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 3000
+  },
+  {
+    "name": "Sensors",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 500
+  },
+  {
+    "name": "Sentinel Firing Core",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 3000
+  },
+  {
+    "name": "Shredder Gyro",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 3000
+  },
+  {
+    "name": "Signal Amplifier",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 3000
+  },
+  {
+    "name": "Silver Teaspoon Set",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 3000
+  },
+  {
+    "name": "Simple Gun Parts",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 330
+  },
+  {
+    "name": "Snitch Scanner",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 2000
+  },
+  {
+    "name": "Speaker Component",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 500
+  },
+  {
+    "name": "Spectrometer",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 3000
+  },
+  {
+    "name": "Spectrum Analyzer",
+    "rarity": "Epic",
+    "action": "SELL",
+    "price": 3500
+  },
+  {
+    "name": "Spotter Relay",
+    "rarity": "Uncommon",
+    "action": "SELL",
+    "price": 2000
+  },
+  {
+    "name": "Spring Cushion",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 2000
+  },
+  {
+    "name": "Statuette",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 3000
+  },
+  {
+    "name": "Steel Spring",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 300
+  },
+  {
+    "name": "Surveyor Vault",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 2000
+  },
+  {
+    "name": "Synthesised Fuel",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 700
+  },
+  {
+    "name": "Syringe",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 500
+  },
+  {
+    "name": "Tattered ARC Lining",
+    "rarity": "Uncommon",
+    "action": "SELL",
+    "price": 640
+  },
+  {
+    "name": "Tattered Clothes",
+    "rarity": "Uncommon",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Telemetry Transceiver",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 3000
+  },
+  {
+    "name": "Thermostat",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Tick Pod",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 640
+  },
+  {
+    "name": "Toaster",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "Torn Blanket",
+    "rarity": "Rare",
+    "action": "RECYCLE",
+    "price": 640
+  },
+  {
+    "name": "Torn Book",
+    "rarity": "Common",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Turbo Pump",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 2000
+  },
+  {
+    "name": "Unusable Weapon",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 2000
+  },
+  {
+    "name": "Vase",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 3000
+  },
+  {
+    "name": "Very Comfortable Pillow",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 2000
+  },
+  {
+    "name": "Volcanic Rock",
+    "rarity": "Common",
+    "action": "SELL",
+    "price": 270
+  },
+  {
+    "name": "Voltage Converter",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 500
+  },
+  {
+    "name": "Wasp Driver",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "Water Filter",
+    "rarity": "Rare",
+    "action": "SELL",
+    "price": 1000
+  },
+  {
+    "name": "Water Pump",
+    "rarity": "Rare",
+    "action": "KEEP",
+    "price": 1000
+  },
+  {
+    "name": "Wires",
+    "rarity": "Uncommon",
+    "action": "KEEP",
+    "price": 200
+  }
+]
