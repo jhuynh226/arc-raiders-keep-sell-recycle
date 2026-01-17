@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/arc-raiders-keep-sell-recycle/'
 })
